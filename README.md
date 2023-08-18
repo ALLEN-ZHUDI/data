@@ -18,3 +18,9 @@
 数据集的训练集和测试集的划分与详情，如表3-4所示。其中包括数据集每个文件夹里包含的帧数，图片的分辨率，跟踪的目标综述，采集数据的设备是静态的还是动态的，车辆目标的密集程度，无人机视角的高度以及天气状况等。
 
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/60fc088a-981d-4450-b9f1-ebf6f32cf602)
+
+# 数据集图示
+
+![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/a46ec160-a5c2-4466-8139-6811e9ea87bc)
+
+# 数据集下载
