@@ -11,11 +11,12 @@
 
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/6cf8256d-8fab-4d14-97ce-5bd1b6de5e35)
 
-所有图像都转换为png格式，并按顺序命名为4位文件名称（例如 0001.png）。检测和注释文件是简单的逗号txt文件。每行代表一个对象实例，包含 9 个值，如表3-3所示。
+所有图像都转换为png格式，并按顺序命名为4位文件名称（例如 0001.png）。检测和注释文件是简单的逗号txt文件。每行代表一个对象实例，包含 7个值，如表3-3所示。
 
-![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/0663f5ff-12bb-4d4a-910e-3aa884d24951)
+![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/102ab8f7-1fd3-450d-99f1-4410838aee73)
 
-数据集的训练集和测试集的划分与详情，如表3-4所示。其中包括数据集每个文件夹里包含的帧数，图片的分辨率，跟踪的目标综述，采集数据的设备是静态的还是动态的，车辆目标的密集程度，无人机视角的高度以及天气状况等。
+
+数据集的训练集和测试集的划分与详情，如表3-4所示。其中包括数据集每个文件夹里包含的帧数，图片的分辨率，跟踪的目标总数，采集数据的设备是静态的还是动态的，车辆目标的密集程度，无人机视角的高度以及天气状况等。
 
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/60fc088a-981d-4450-b9f1-ebf6f32cf602)
 
@@ -24,4 +25,4 @@
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/a46ec160-a5c2-4466-8139-6811e9ea87bc)
 
 # 数据集下载
-链接: https://pan.baidu.com/s/1gy3LwOgyF_evCuhmQI_wqw 提取码: xwsr 
+链接：https://pan.baidu.com/s/1RYGfitiI00IMZlRTMlLKJQ 提取码：s2ho
