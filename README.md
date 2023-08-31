@@ -25,4 +25,4 @@
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/a46ec160-a5c2-4466-8139-6811e9ea87bc)
 
 # 数据集下载
-链接：https://pan.baidu.com/s/1RYGfitiI00IMZlRTMlLKJQ 提取码：s2ho
+链接：https://pan.baidu.com/s/1GOi22ZLi7lr5wnuZr4zqsg 提取码：vw7e
