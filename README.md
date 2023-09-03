@@ -9,7 +9,7 @@
 # 数据格式与数据集划分
 数据标注的注释文件举例如下图所示。为了获得整个基准测试的有效结果，必须为每个序列创建遵循上述格式的单独 txt文件，称为“groundtruth.txt”。数据集中共划分为七个文件夹，每个文件夹对应相应的场景，其中文件夹01,02,03，04的数据来源于visdrone2019里筛选出目标对象为道路行驶车辆的数据，文件夹05,06,07的数据来源于网络收集的航拍对象为道路行驶车辆的数据。对应每个场景都有各自的groundtruth.txt，放在对应的文件夹中。
 
-![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/6cf8256d-8fab-4d14-97ce-5bd1b6de5e35)
+
 
 所有图像都转换为png格式，并按顺序命名为4位文件名称（例如 0001.png）。检测和注释文件是简单的逗号txt文件。每行代表一个对象实例，包含 7个值，如表3-3所示。
 
@@ -25,4 +25,5 @@
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/a46ec160-a5c2-4466-8139-6811e9ea87bc)
 
 # 数据集下载
-链接：https://pan.baidu.com/s/1GOi22ZLi7lr5wnuZr4zqsg 提取码：vw7e
+链接：https://pan.baidu.com/s/1Te932KZuksU5hnp15VrytQ 
+提取码：rnou
