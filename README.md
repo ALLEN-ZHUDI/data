@@ -26,5 +26,5 @@
 ![image](https://github.com/ALLEN-ZHUDI/data/assets/55532249/a46ec160-a5c2-4466-8139-6811e9ea87bc)
 
 # 数据集下载
-链接：https://pan.baidu.com/s/1Te932KZuksU5hnp15VrytQ 
-提取码：rnou
+链接：https://pan.baidu.com/s/1BlvEPiusO4bULnUBjz3pwA 
+提取码：g3dw
